@@ -29,3 +29,5 @@ Add Code here
 <img width="392" height="356" alt="image" src="https://github.com/user-attachments/assets/722edf04-674b-44c9-a1be-1eaba0d77de0" />
 
 ## Result
+Thus,the Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
+
